@@ -4,7 +4,6 @@ div div {background: #A4CA39; position: relative;}
 .android{
 	height: 404px; width: 334px;
 	margin: 100px auto;
-	
 }
 .head{
 	width: 220px; height: 100px;
@@ -49,7 +48,7 @@ div div {background: #A4CA39; position: relative;}
 	border-radius: 25px;
 }
 .l_leg, .r_leg {
-	height: 80px; top: 182px;
+	height: 80px; top:182px;
 	border-radius: 0 0 25px 25px;
 }
 .l_arm {left: -58px;}
