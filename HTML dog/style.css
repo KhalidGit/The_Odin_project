@@ -1,0 +1,23 @@
+body {
+    font-size: 14px;
+    color: navy;
+    background: white url(http://www.htmldog.com/images/bg.gif) no-repeat top right;
+}
+
+
+
+
+h2 {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
+
+
+
+p:first-line {
+    font-weight: bold;
+    color:red;
+}
