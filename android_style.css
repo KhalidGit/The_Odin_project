@@ -14,6 +14,7 @@ div div {background: #A4CA39; position: relative;}
 	background: #fff;
 	width: 20px; height: 20px;
 	position: absolute; top: 40px;
+	border-radius: 10px;
 }
 .l_eye {left: 50px;}
 
@@ -22,6 +23,7 @@ div div {background: #A4CA39; position: relative;}
 .l_ant, .r_ant{
 	width: 5px; height: 50px;
 	position: absolute; top: -30px;
+	border-radius: 2px;
 }
 .l_ant {
 	left: 50px;
@@ -35,17 +37,19 @@ div div {background: #A4CA39; position: relative;}
 .body{
 	width: 200px; height: 175px;
 	top: 40px;
+	border-radius: 0 0 25px 25px;
 }
 
 .l_arm, .r_arm, .l_leg, .r_leg {
 	width: 50px; position: absolute;
-	-webkit-transition: all 0.1s ease-in;
 }
 .l_arm, .r_arm {
 	height: 150px;
+	border-radius: 25px;
 }
 .l_leg, .r_leg {
 	height: 75px; top: 175px;
+	border-radius: 0 0 25px 25px;
 }
 .l_arm {left: -60px;}
 .r_arm {right: -60px;}
