@@ -1,9 +1,34 @@
-#navbar {
-	
-  	display: block;
-  	padding: 0 0 0 18px;
+html {
+	font-family: Arial
 }
 
-body > div > input {
-	border
+
+#navbar {
+	list-style-type:none;
+  	float: right;
+	margin-right: 50px
 }
+
+li {
+	display:inline;
+}
+
+a {
+	text-decoration: none;
+	padding: 5px 8px 5px 8px;
+	display: inline;
+	color: #666666;
+	font-size: 12px;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+body > div > input {
+	border: 2px black;
+}
+
+#blue {
+	color:blue;
+}
+
