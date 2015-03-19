@@ -1,2 +1,2 @@
-# The_Odin_project
-This repo contains coursework from The Odin Project.
+# The Odin project
+This repo contains coursework from <a href="www.theodinproject.com">The Odin Project</a>.
